@@ -1,0 +1,20 @@
+{
+  "registry": "business-os",
+  "updated": "2026-07-03",
+  "skills": [
+    {
+      "name": "sop-writer",
+      "version": "1.0.0",
+      "category": "operations",
+      "description": "Turn a process you describe out loud into a numbered, delegable SOP document saved in the right department's output folder.",
+      "files": ["SKILL.md"]
+    },
+    {
+      "name": "weekly-review",
+      "version": "1.0.0",
+      "category": "founder",
+      "description": "A 15-minute guided weekly business review: wins, numbers, stuck items, next week's three priorities - written to a dated note and linked into the vault.",
+      "files": ["SKILL.md"]
+    }
+  ]
+}
