@@ -1,0 +1,13 @@
+{
+  "registry": "business-os-voice",
+  "updated": "2026-07-03",
+  "note": "v1 supports NeMo-transducer models only (Parakeet family). Whisper entries need engine-type support in the client first.",
+  "models": [
+    {
+      "name": "Parakeet TDT 0.6b v3 (int8, EN+EU languages)",
+      "engineUrl": "https://github.com/k2-fsa/sherpa-onnx/releases/download/v1.13.3/sherpa-onnx-v1.13.3-win-x64-shared-MT-Release.tar.bz2",
+      "modelUrl": "https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-nemo-parakeet-tdt-0.6b-v3-int8.tar.bz2",
+      "size": "~486 MB"
+    }
+  ]
+}
